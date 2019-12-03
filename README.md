@@ -10,5 +10,5 @@ id:
   
 implementation of react function-components
 
-![Image](https://github.com/erenraich/react-basic/blob/master/img1.png)
-![Image](https://github.com/erenraich/react-basic/blob/master/img2.png)
+![Image](https://github.com/hayashan-fullstack/exe-2-react-basic-and-components/blob/master/img1.png)
+![Image](https://github.com/hayashan-fullstack/exe-2-react-basic-and-components/blob/master/img2.png)
